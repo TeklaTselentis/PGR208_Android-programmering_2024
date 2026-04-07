@@ -1,4 +1,4 @@
-# PGR208_Android-programmering_2024
+# PGR208_Android_programmering_2025
 PGR208 Android programmerings eksamen 2025
 
 # Pokémon App
