@@ -5,12 +5,12 @@ PGR208 Android programmerings eksamen 2024
 En Android-app for å bla gjennom Pokémon, søke, og opprette egne Pokémon lokalt.
 
 # Bilder fra appen
-<img width="180" height="auto" alt="image" src="https://github.com/user-attachments/assets/a60ad441-e814-4a62-800d-b5c46b7a393a" />
-<img width="180" height="auto" alt="image" src="https://github.com/user-attachments/assets/cef7b5af-a77b-4808-81f1-5fca10d4cb9d" />
-<img width="180" height="auto" alt="image" src="https://github.com/user-attachments/assets/e2143a08-77fc-4994-9123-f31cab9034bb" />
-<img width="180" height="auto" alt="image" src="https://github.com/user-attachments/assets/1c937d56-2db9-42fb-96ac-9f23452d10b6" />
-<img width="180" height="auto" alt="image" src="https://github.com/user-attachments/assets/bb131ffa-7c11-4d45-8285-3c4fa5dd46ac" />
-<img width="180" height="auto" alt="image" src="https://github.com/user-attachments/assets/1ac84117-0005-47c6-8539-ee4deb75970e" />
+<img width="140" height="auto" alt="image" src="https://github.com/user-attachments/assets/a60ad441-e814-4a62-800d-b5c46b7a393a" />
+<img width="140" height="auto" alt="image" src="https://github.com/user-attachments/assets/cef7b5af-a77b-4808-81f1-5fca10d4cb9d" />
+<img width="140" height="auto" alt="image" src="https://github.com/user-attachments/assets/e2143a08-77fc-4994-9123-f31cab9034bb" />
+<img width="140" height="auto" alt="image" src="https://github.com/user-attachments/assets/1c937d56-2db9-42fb-96ac-9f23452d10b6" />
+<img width="140" height="auto" alt="image" src="https://github.com/user-attachments/assets/bb131ffa-7c11-4d45-8285-3c4fa5dd46ac" />
+<img width="140" height="auto" alt="image" src="https://github.com/user-attachments/assets/1ac84117-0005-47c6-8539-ee4deb75970e" />
 
 
 ## Oppsett
