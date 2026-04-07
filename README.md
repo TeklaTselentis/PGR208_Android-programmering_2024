@@ -1,5 +1,5 @@
 # PGR208_Android-programmering_2024
-PGR208 Android programmerings eksamen 2024
+PGR208 Android programmerings eksamen 2025
 
 # Pokémon App
 En Android-app for å bla gjennom Pokémon, søke, og opprette egne Pokémon lokalt.
